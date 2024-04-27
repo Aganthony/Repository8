@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/pms_project/pms",
+        "./src/djbarky/djbarky"
+    ]
+}
